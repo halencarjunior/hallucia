@@ -6,7 +6,7 @@
  | |  | | | (_| | | | | | | |_| | | (__   _| |_   / ____ \ 
  |_|  |_|  \__,_| |_| |_|  \__,_|  \___| |_____| /_/    \_\
 
-    HallucIA - AI Package Hallucination Analyzer ```
+    HallucIA - AI Package Hallucination Analyzer
                                                            
 
 # HallucIA
