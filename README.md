@@ -9,6 +9,8 @@
     HallucIA - AI Package Hallucination Analyzer
                                                            
 
+                                                           
+
 # HallucIA
 
 **HallucIA** is a security tool designed to detect and prevent _Package Hallucination_ — a class of vulnerabilities where AI-generated or human-typed code includes dependencies that don't exist or are malicious typosquats.
