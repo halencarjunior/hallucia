@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from app.util import validate_packages, filter_only_invalid
-from app.validator import process_directory  # reaproveita a função do CLI
+from app.validator import process_directory 
 import os
 
 app = Flask(__name__)
