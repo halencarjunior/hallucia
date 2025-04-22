@@ -8,8 +8,8 @@
 
     HallucIA - AI Package Hallucination Analyzer
                                                            
+```
 
-                                                           
 
 # HallucIA
 
